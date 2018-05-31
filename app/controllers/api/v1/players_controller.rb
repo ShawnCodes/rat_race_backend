@@ -5,5 +5,14 @@ class Api::V1::PlayersController < ApplicationController
   end
 
   def create
+    @player = Player.find_or_create_by(player_params)
+    render json: @player
+  end
+
+
+  private
+
+  def player_params
+    params.require(:players).permit(:username)
   end
 end
