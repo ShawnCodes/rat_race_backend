@@ -1,24 +1,29 @@
-# README
+**Rat Race**
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rat race is an endless platform game built that chronicles woof the dog as he journeys through NYC collecting bitcoin and avoiding pigeons.
 
-Things you may want to cover:
+**Why I built This**
 
-* Ruby version
+I built this as a way to practice my usage of object oriented javascript.
 
-* System dependencies
+**Build status**
 
-* Configuration
+Constantly updating, but each pushed version is stable!
 
-* Database creation
+**Built with**
 
-* Database initialization
+Ruby on rails
 
-* How to run the test suite
+PostgresSQL
 
-* Services (job queues, cache servers, search engines, etc.)
+**Installation**
 
-* Deployment instructions
+Fork this repo
 
-* ...
+Rails S
+
+**Contribute**
+
+Send a PR for any suggested changes or additional widgets
+
+MIT © Shawn Tannor
